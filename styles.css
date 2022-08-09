@@ -1,0 +1,18 @@
+body{
+    margin: 10px;
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0.94);
+    color: antiquewhite;
+}
+
+p{
+    font-size: 16px;
+    
+}
+
+table, tr, th , td, caption {
+    border: 1px solid #000;
+    border-collapse: collapse;
+    padding: 0.5rem;
+
+}
